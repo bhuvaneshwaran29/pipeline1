@@ -12,5 +12,5 @@ int sumof2no()
 
     printf("Sum of %d and %d is %d\n", firstNumber, secondNumber, sum);
 
-\\    return 0;
+  return 0;
 }
