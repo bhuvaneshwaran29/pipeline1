@@ -23,5 +23,5 @@ stages {
 				sh '  chmod 777 build deploy test; ./test'
 					}
 				}
-    }
+   }
 }
